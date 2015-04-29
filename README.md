@@ -1,2 +1,2 @@
-# arreglos_c
+# Arreglos
 Practicas de arreglos en C
